@@ -7,11 +7,15 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-build/
-
+# Node modules
 node_modules/
+
+# Build output
 dist
 dist-ssr
+build
+
+# Local files
 *.local
 
 # Editor directories and files
