@@ -67,12 +67,12 @@ sushiFast/
 ### A - Cloner le dépôt
 
 ~~~
-git clone https://github.com/YannisCam/TP_TirFouad
+git clone https://github.com/YannisCam/TP_SushiFast
 ~~~
 
 ### B - Changer de directory
 ~~~
-cd sushifast_rakotomavo_camelin
+cd sushifast
 ~~~
 
 ### C - Installer
