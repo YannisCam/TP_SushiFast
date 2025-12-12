@@ -1,0 +1,30 @@
+# Sushifast - Mathias Rakotomavo - Yannis Camelin
+
+## 1 - Description
+TP React qui consiste à créer une interface interactive nommée permettant d'afficher les mens en fonction de critère et scpécifications précises :
+
+- Affichage de tous les menus (nom, pieces, image, prix).
+- Présentation des saveurs de chaque menu.
+- Liste des menus contenant les saveurs suivantes : avocat ou coriandre.
+- Liste des aliments d'un menu donné
+- Liste des menus ne contenant l'aliment : "California Saumon Avocat".
+- Le prix total à payer pour une commande intégrant des menus dont le nombre de
+pièces est inférieur à 13.
+- Afficher le menu le plus cher et le menu le moins cher (nom, prix, pieces).
+
+---
+
+## 2 - Contraintes techniques
+
+- L'application doit disposer d'un header et d'un footer
+- L'utilisation d'un framework CSS est requise
+- L'implémentation du routage est obligatoire
+- L'utilisation du TypeScript est optionnelle
+- Le choix du type composant est laissé à votre initiative (Fonctionnel ou Classe)
+- Une qualité d'un code passe sa documentation
+- Le travail final se rendra via un lien github, déposé sur e-learning.
+- Un ReadMe sera associé à ce TP (sur github)
+
+
+
+
