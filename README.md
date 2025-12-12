@@ -25,6 +25,39 @@ pièces est inférieur à 13.
 - Le travail final se rendra via un lien github, déposé sur e-learning.
 - Un ReadMe sera associé à ce TP (sur github)
 
+## 3 - Structure du projet
+
+~~~
+sushiFast/
+ ├── public/
+ │   ├── data/      
+ │   └── img/
+ │
+ └── src/
+     ├── components/
+     │    ├──footer.css
+     │    ├──footer.jsx
+     │    ├──header.css
+     │    └──header.jsx
+     ├── pages/
+     │      ├──accueil.css
+     │      ├──accueil.jsx
+     │      ├──aliments.jsx
+     │      ├──avocatcoriandre.jsx
+     │      ├──california.jsx
+     │      ├──prix_pieces_inferieur13.jsx
+     │      ├──prix.jsx
+     │      └──saveur.jsx
+     ├── assets/
+     │      └──react.svg
+     ├── App.css
+     ├── App.jsx
+     ├── index.css          
+     └── main.jsx
+
+
+~~~
+
 
 
 
