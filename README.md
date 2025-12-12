@@ -48,13 +48,13 @@ sushiFast/
      │    └──header.jsx
      ├── pages/
      │      ├──accueil.css
-     │      ├──accueil.jsx
-     │      ├──aliments.jsx
-     │      ├──avocatcoriandre.jsx
-     │      ├──california.jsx
-     │      ├──prix_pieces_inferieur13.jsx
-     │      ├──prix.jsx
-     │      └──saveur.jsx
+     │      ├──accueil.jsx                  # Liste de tous les menus
+     │      ├──aliments.jsx                 # Liste de tous les menus et en cliquant les aliments
+     │      ├──avocatcoriandre.jsx          # Liste de tous les menus avec coriandre ou avocat
+     │      ├──california.jsx               # Liste de tous les menus sans california
+     │      ├──prix_pieces_inferieur13.jsx  # Liste de tous les menus avec moins ou egal a 13 pieces
+     │      ├──prix.jsx                     # Liste de du menu le plus cher et moins cher
+     │      └──saveur.jsx                   # Liste de tous les menus avec leurs saveurs
      ├── assets/
      │      └──react.svg
      ├── App.css
