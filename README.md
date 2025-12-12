@@ -1,7 +1,7 @@
 # Sushifast - Mathias Rakotomavo - Yannis Camelin
 
 ## 1 - Description
-TP React et Vite qui consiste à créer une interface interactive nommée permettant d'afficher les mens en fonction de critère et scpécifications précises :
+TP React et Vite qui consiste à créer une interface interactive nommée SushiFast, permettant d'afficher les menus en fonction de critère et scpécifications précises :
 
 - Affichage de tous les menus (nom, pieces, image, prix).
 - Présentation des saveurs de chaque menu.
@@ -25,7 +25,14 @@ pièces est inférieur à 13.
 - Le travail final se rendra via un lien github, déposé sur e-learning.
 - Un ReadMe sera associé à ce TP (sur github)
 
-## 3 - Structure du projet
+## 3 - Spécifications techniques
+- **Framework :** React (Vite)
+- **CSS :** Bootstrap + styles personnalisés (`accueil.css`)
+- **Routage :** React Router
+- **Données :** `boxes.json`
+
+
+## 4 - Structure du projet
 
 ~~~
 sushiFast/
@@ -55,18 +62,25 @@ sushiFast/
      ├── index.css          
      └── main.jsx
 ~~~
-## 4 - Installation et lancement
+## 5 - Installation et lancement
 
 ### A - Cloner le dépôt
 
 ~~~
 git clone https://github.com/YannisCam/TP_TirFouad
-cd TP
 ~~~
 
-### B - Installer
+### B - Changer de directory
+~~~
+cd sushifast_rakotomavo_camelin
+~~~
+
+### C - Installer
 
 ~~~
+Dépendances:
+npm install
+
 Bootstrap :
 npm install react-bootstrap bootstrap
 
@@ -74,11 +88,15 @@ React router:
 npm install react-router-dom
 ~~~
 
-### C - Lancement du projet
+### D - Lancement du projet
 
 ~~~
 npm run dev
 ~~~
+
+## 6 - Auteurs
+
+Yannis Camelin & Mathias Rakotomavo
 
 
 
